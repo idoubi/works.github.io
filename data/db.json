@@ -1,0 +1,55 @@
+[{
+    "Category_id": "openSource",
+    "category_CN": "开源项目",
+    "category_icon": "icon-github",
+    "category_item": "openSourceItem",
+    "item_children": [{
+        "child_name": "豆信",
+        "img_src": "http://cdn.idoustudio.com/worksdouchat.png",
+        "a_href": "http://douchat.net",
+        "child_desc": "简洁、高效的微信开发框架。"
+      },
+      {
+        "child_name": "gonews",
+        "img_src": "http://cdn.idoustudio.com/gonewsweb.png",
+        "a_href": "http://gonews.idoubi.cc",
+        "child_desc": "Golang 每日新闻整合站。"
+      },
+      {
+        "child_name": "goz",
+        "img_src": "http://cdn.idoustudio.com/go-curl1.png",
+        "a_href": "https://github.com/idoubi/goz",
+        "child_desc": "在 Golang 中使用的 Http 请求库。"
+      },
+      {
+        "child_name": "sql2struct",
+        "img_src": "http://cdn.idoustudio.com/golang.png",
+        "a_href": "https://github.com/idoubi/sql2struct",
+        "child_desc": "SQL 转 Golang 结构体的 Chrome 插件。"
+      },
+      {
+        "child_name": "tellme",
+        "img_src": "http://cdn.idoustudio.com/works_homebrew.png",
+        "a_href": "https://github.com/idoubi/tellme",
+        "child_desc": "一个获取常用信息的命令行工具。"
+      }
+    ]
+  },
+  {
+    "Category_id": "hexoThemes",
+    "category_CN": "Hexo 主题",
+    "category_icon": "icon-hexo",
+    "category_item": "hexoThemesItem",
+    "item_children": [{
+      "child_name": "HexoPro",
+      "img_src": "http://cdn.idoustudio.com/works_hexopro.png",
+      "a_href": "https://hexo.pro",
+      "child_desc": "Hexo 主题收集站。"
+    }, {
+      "child_name": "hexo-theme-studio",
+      "img_src": "http://cdn.idoustudio.com/works_idoustudio.png",
+      "a_href": "https://github.com/hexopro/hexo-theme-studio/",
+      "child_desc": "Hexo 科技工作室主题。"
+    }]
+  }
+]
