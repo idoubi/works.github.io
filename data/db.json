@@ -28,6 +28,12 @@
         "child_desc": "SQL 转 Golang 结构体的 Chrome 插件。"
       },
       {
+        "child_name": "HexoPro",
+        "img_src": "http://cdn.idoustudio.com/works_hexopro.png",
+        "a_href": "https://hexo.pro",
+        "child_desc": "Hexo 主题收集站。"
+      },
+      {
         "child_name": "tellme",
         "img_src": "http://cdn.idoustudio.com/works_homebrew.png",
         "a_href": "https://github.com/idoubi/tellme",
@@ -41,11 +47,6 @@
     "category_icon": "icon-hexo",
     "category_item": "hexoThemesItem",
     "item_children": [{
-      "child_name": "HexoPro",
-      "img_src": "http://cdn.idoustudio.com/works_hexopro.png",
-      "a_href": "https://hexo.pro",
-      "child_desc": "Hexo 主题收集站。"
-    }, {
       "child_name": "hexo-theme-studio",
       "img_src": "http://cdn.idoustudio.com/works_idoustudio.png",
       "a_href": "https://github.com/hexopro/hexo-theme-studio/",
